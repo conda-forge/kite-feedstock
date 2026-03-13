@@ -7,11 +7,11 @@ package:
 
 source:
   url: https://github.com/hpdcj/KITE/archive/refs/tags/{{ version }}.tar.gz
-  sha256: ab2b7e48442a1ae6eb93a8d744c42d832d8664289afd47705bf963f886a14950
+  sha256: 5a21ee7c760441d217ef029015ed8faebe45a29e86244939894427cfd6414892
 
 build:
   noarch: generic
-  number: 1
+  number: 2
 
 requirements:
   build:
